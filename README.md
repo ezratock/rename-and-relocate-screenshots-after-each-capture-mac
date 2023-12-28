@@ -9,5 +9,5 @@ A script that takes a screenshot in interactive mode but then prompts the user t
 ## Install the script
 1) navigate to the newly created rename-and-relocate-screenshots-after-each-capture-mac folder in a finder window
 2) double click on the named-screenshots Quick Action script
-3) f
+3) ![Screenshot 2023-12-28 at 5 28 36 PM](https://github.com/ezratock/rename-and-relocate-screenshots-after-each-capture-mac/assets/41342771/446987f0-4eb2-48eb-a965-d41c1958d2f1)
 ## Configure trigger
