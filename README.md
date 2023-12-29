@@ -1,5 +1,5 @@
 # rename-and-relocate-screenshots-after-each-capture-mac
-A script that takes a screenshot in interactive mode and then prompts the user to rename and relocate it.  Easy to trigger the script with a custom keyboard shortcut or function key!  Your default name and location for screenshots stored on your Mac are still easily accessible during use.  Compatible with MacOS 10.6 or later.
+A script that takes a screenshot in interactive mode and prompts the user to rename and relocate it.  Easy to trigger the script with a custom keyboard shortcut or function key!  The default name and location for screenshots stored on your Mac are still easily accessible during use.  Compatible with MacOS 10.6 or later.
 
 # Installation
 ### Clone the repository to your computer
