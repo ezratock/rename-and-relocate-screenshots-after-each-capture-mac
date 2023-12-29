@@ -21,5 +21,5 @@ A script that takes a screenshot in interactive mode and prompts the user to ren
 4) Type the custom keyboard shotcut or function key you'd like to trigger screenshots. Make sure the shortcut you choose is not already in use.  If you'd like to set the shortcut to be command + shift + 4 as usual, select "Screenshots" from the left sidebar and DEselect "Save picture of selected area as a file" before proceeding.
 5) click "Done"
 ### Allow permissions
-1) Every app you want to have screenshot functionality on will need to be quit and reopened for the script to work. I find restarting my mac to be a simple solution.
-2) note: unfortunately custom keyboard shortcuts do not work on apps including System Settings, so close out of System Settings before testing your new screenshot shortcut
+1) Every app you want to have screenshot functionality on will need to have screen recording permissions and be quit and reopened. I find restarting my mac to be a simple solution. Sometimes when you type the keyboard shotcut on a new app, a pop up will allow you to grant screen recording permissions, but otherwise if the keyboard shortcut does not work on a certain app, go to System Settings > "Privacy & Security" > "Screen Recording" and add all apps you'd like to have screenshots on.
+2) Note: unfortunately custom keyboard shortcuts do not work on certain apps. I have not been able to get the script to work on Discord or Steam.
