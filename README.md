@@ -5,7 +5,7 @@ A script that takes a screenshot in interactive mode and prompts the user to ren
 ### Clone the repository to your computer
 1) open a terminal
 2) navigate to the folder you'd like to temporarily put the installation directory in (e.g. ~/Downloads) with ``cd path/to/folder``
-3) run ``git clone https://github.com/ezratock/rename-and-relocate-screenshots-after-each-capture-Mac.git``
+3) run ``git clone https://github.com/ezratock/rename-and-relocate-screenshots-after-each-capture-mac.git``
 ### Install the script
 1) navigate to the newly created rename-and-relocate-screenshots-after-each-capture-mac folder in a finder window
 2) double click on the named-screenshots Quick Action workflow  
