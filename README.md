@@ -5,7 +5,6 @@ A script that takes a screenshot in interactive mode and prompts the user to ren
 ### Download the repository
 1) click green "Code" dropdown and click "Download ZIP"  
 ![download-zip](img/download-zip.png?raw=true "download-zip")
-<img src="img/download-zip.png" alt="drawing" width="200"/>
 3) alternatively, you could clone the repo with git
 ### Install the script
 1) navigate to the newly created rename-and-relocate-screenshots-after-each-capture-mac folder in a finder window
