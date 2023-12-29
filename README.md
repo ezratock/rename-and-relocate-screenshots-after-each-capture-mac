@@ -3,7 +3,7 @@ A script that takes a screenshot in interactive mode and prompts the user to ren
 
 # Installation
 ### Download the repository
-1) click green "Code" dropdown and click "Download ZIP"  
+1) on GitHub, dropdown the green "Code" menu and click "Download ZIP"  
 ![download-zip](img/download-zip.png)
 2) alternatively, you could clone the repo with git
 ### Install the script
