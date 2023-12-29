@@ -10,6 +10,6 @@ A script that takes a screenshot in interactive mode and then prompts the user t
 1) navigate to the newly created rename-and-relocate-screenshots-after-each-capture-mac folder in a finder window
 2) double click on the named-screenshots Quick Action script
 3) in the resulting "Quick Action Installer" pop up that says "Do you want to install the 'named-screenshots' quick action?", click install
-4) ![Quick Action Installer](relative%20img/QuickActionInstaller.png?raw=true "Quick Action Installer")
+4) ![Quick Action Installer](img/QuickActionInstaller.png?raw=true "Quick Action Installer")
 ### Triggering on custom shortcut or function key
 1) 
