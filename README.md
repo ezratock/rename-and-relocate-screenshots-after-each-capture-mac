@@ -18,6 +18,6 @@ A script that takes a screenshot in interactive mode and then prompts the user t
 2) in the left sidebar, select "Services" and drop down the menu for "General"
 3) ensure the "named-screenshots" box is checked and then double click where it says "none" to set your custom keyboard shortcut or function key  
    ![none](img/none.png?raw=true "none")
-4) type the custom keyboard shotcut or function key you'd like to trigger screenshots.  Make sure the shortcut you choose is not already in use
+4) Type the custom keyboard shotcut or function key you'd like to trigger screenshots.  Make sure the shortcut you choose is not already in use.  If you'd like to set the keyboard shortcut to command + shift + 4 as usual, select "Screenshots" from the left sidebar and DEselect "Save picture of selected area as a file" before proceeding.
 5) click "Done"
-
+6) note: custom keyboard shortcuts do not work on apps like System Settings, so close out of System Settings before testing the screenshot shortcut
